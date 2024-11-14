@@ -1,1 +1,1 @@
-# Mechanism and evolution of language model hallucinations 
+# Mechanistic understanding and mitigation of LM non-factual hallucinations
